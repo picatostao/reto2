@@ -14,3 +14,4 @@ Para subir un repositorio a git hay que seguir los siguientes pasos:
     para saber en que estado están los archivos puedes usar un "git status" en la consola y te imprimirá el estado de los archivos.
     también en el directorio de la izquierda hay indicadores para saber en que estado están los archivos.
     git init
+"# reto2" 
